@@ -1,0 +1,1 @@
+// Arquivo removido em favor do index.tsx unificado

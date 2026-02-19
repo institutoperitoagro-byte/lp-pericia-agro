@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instituto Perito Agro | Formação de Peritos Judiciais de Elite</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Domine a perícia judicial agrária. Formação estratégica para engenheiros e profissionais do agro alcançarem altos honorários e autoridade no judiciário." />
+    <meta name="keywords" content="perícia judicial, perito agro, engenheiro agrônomo perito, honorários periciais, curso perícia judicial, agronegócio" />
+    <meta name="author" content="Instituto Perito Agro" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://peritoagro.com.br/" />
+    <meta property="og:title" content="Instituto Perito Agro | Formação de Peritos Judiciais" />
+    <meta property="og:description" content="Alcance honorários de elite na perícia judicial agrária com o Método ELITE do Instituto Perito Agro." />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&h=630&q=80" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="Instituto Perito Agro | Formação de Peritos Judiciais" />
+    <meta property="twitter:description" content="Alcance honorários de elite na perícia judicial agrária com o Método ELITE." />
+
+    <!-- Tailwind e Fontes -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+      :root {
+        --agro-green: #0d2c1d;
+        --agro-gold: #c5a059;
+      }
+      body {
+        font-family: 'Inter', sans-serif;
+      }
+      h1, h2, h3, .font-serif {
+        font-family: 'Playfair Display', serif;
+      }
+      .bg-agro-green { background-color: var(--agro-green); }
+      .text-agro-gold { color: var(--agro-gold); }
+      .text-agro-green { color: var(--agro-green); }
+      .border-agro-gold { border-color: var(--agro-gold); }
+      .bg-agro-gold { background-color: var(--agro-gold); }
+      
+      @keyframes pulse-cta {
+        0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(197, 160, 89, 0.7); }
+        70% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(197, 160, 89, 0); }
+        100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(197, 160, 89, 0); }
+      }
+      .animate-pulse-cta {
+        animation: pulse-cta 2s infinite;
+      }
+      
+      /* Otimização de renderização de fontes */
+      * { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+    </style>
+
+    <script type="importmap">
+    {
+      "imports": {
+        "react-dom/": "https://esm.sh/react-dom@^18.2.0/",
+        "react/": "https://esm.sh/react@^18.2.0/",
+        "react": "https://esm.sh/react@^18.2.0"
+      }
+    }
+    </script>
+  <link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-slate-50 text-slate-900 overflow-x-hidden">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
