@@ -246,7 +246,7 @@ const Differentiation = () => (
         </div>
         <div className="bg-agro-green text-white rounded-[2.5rem] p-10 md:p-14 border-2 border-agro-gold shadow-2xl">
           <h3 className="text-2xl md:text-3xl font-serif font-bold text-agro-gold mb-10 flex items-center gap-6">
-            <span className="text-agro-gold text-4xl font-bold">✓</span> Método ELITE – Instituto Perito Agro
+            <span className="text-agro-gold text-4xl font-bold">✓</span> Método E.P.A.-  Instituto Perito Agro
           </h3>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {[
@@ -345,7 +345,7 @@ const Testimonials = () => (
         {[
           { text: "Consegui minha primeira nomeação e hoje já atuo com segurança. O curso mostra exatamente a prática.", author: "Lidiane", role: "Eng. Agrônoma • PR" },
           { text: "O que antes parecia muito difícil ficou descomplicado. Realizei minha primeira perícia durante o curso.", author: "Diego", role: "Eng. Florestal • SP" },
-          { text: "Encontrei o Método ELITE e salvou minha atuação. Consegui conduzir tudo corretamente.", author: "João", role: "Eng. Agrônomo • SP" },
+          { text: "Encontrei o Método E.P.A. e salvou minha atuação. Consegui conduzir tudo corretamente.", author: "João", role: "Eng. Agrônomo • SP" },
           { text: "Em 3 meses após o curso, recebi minha primeira nomeação de R$ 8.500.", author: "Ricardo", role: "Eng. Agrônomo • MS" }
         ].map((t, i) => (
           <div key={i} className="bg-slate-50 p-10 rounded-[2.5rem] shadow-sm border border-slate-100 flex flex-col hover:shadow-xl transition-all">
@@ -400,15 +400,15 @@ const Pricing = () => (
 
         {/* LADO DIREITO: CHECKOUT */}
         <div className="lg:w-5/12 bg-slate-50 p-10 md:p-14 lg:p-20 text-center border-t-2 lg:border-t-0 lg:border-l-2 border-slate-200 flex flex-col justify-center">
-          <p className="text-slate-400 line-through text-2xl md:text-3xl mb-4 opacity-60">De R$ 4.895,00</p>
+          <p className="text-slate-400 line-through text-2xl md:text-3xl mb-4 opacity-60">De R$ 2.497,00</p>
           <p className="text-agro-green text-lg md:text-xl font-bold uppercase tracking-widest mb-6">Investimento Especial</p>
           <div className="flex flex-col items-center gap-2 mb-10">
             <div className="flex items-baseline gap-2">
               <span className="text-agro-gold text-2xl md:text-3xl font-bold">12x R$</span>
-              <span className="text-agro-green text-7xl md:text-9xl font-serif font-bold tracking-tighter">199</span>
+              <span className="text-agro-green text-7xl md:text-9xl font-serif font-bold tracking-tighter">216</span>
               <span className="text-agro-gold text-2xl md:text-3xl font-bold">,00</span>
             </div>
-            <p className="mt-6 text-agro-green font-bold text-2xl md:text-3xl">Ou R$ 1.990,00 à vista no PIX</p>
+            <p className="mt-6 text-agro-green font-bold text-2xl md:text-3xl">Ou R$ 2.197,00 à vista no PIX</p>
           </div>
           <a href="#" className="w-full py-8 md:py-10 bg-agro-gold text-agro-green font-bold text-2xl md:text-3xl rounded-3xl shadow-2xl hover:bg-agro-green hover:text-white transition-all transform hover:scale-105 animate-pulse-cta uppercase tracking-widest">GARANTIR MINHA VAGA</a>
           <div className="mt-8 flex items-center justify-center gap-4 text-slate-500">
@@ -426,7 +426,7 @@ const FAQ = () => {
   const [openIdx, setOpenIdx] = useState<number | null>(null);
   const faqs = [
     { q: "Preciso ter experiência prévia?", a: "Não. A Formação foi desenhada para levar o profissional do zero absoluto até a segurança total na prática judicial." },
-    { q: "Quais formações podem atuar?", a: "Engenheiros Agrônomos, Florestais, Veterinários, Zootecnistas, Biólogos e áreas correlatas com registro no conselho." },
+    { q: "Quais formações podem atuar?", a: "Engenheiros Agrônomos, Florestais, Veterinários, Zootecnistas, Biólogos, Engenheiros Ambientais e áreas correlatas com registro em conselho profissional." },
     { q: "Recebo modelos prontos?", a: "Sim. Modelos editáveis de petições de honorários, manifestações e laudos técnicos completos em Word." },
     { q: "O curso foca na teoria?", a: "Não. Nosso foco é 100% na prática real, na dinâmica dos tribunais e na autoridade estratégica do perito." }
   ];
@@ -455,7 +455,7 @@ const FinalCTA = () => (
   <section className="py-24 bg-agro-green text-white text-center relative overflow-hidden">
     <div className="max-w-5xl mx-auto px-6 relative z-10">
       <h2 className="text-4xl md:text-7xl font-serif font-bold mb-8 leading-tight">Sua nova jornada profissional <span className="text-agro-gold italic">começa aqui.</span></h2>
-      <p className="text-xl md:text-2xl mb-14 text-slate-300 max-w-3xl mx-auto leading-relaxed">Garanta seu lugar no Método ELITE e transforme seu conhecimento técnico em autoridade judicial hoje mesmo.</p>
+      <p className="text-xl md:text-2xl mb-14 text-slate-300 max-w-3xl mx-auto leading-relaxed">Garanta seu lugar no Método E.P.A. e transforme seu conhecimento técnico em autoridade judicial hoje mesmo.</p>
       <a href="#inscricao" className="inline-block bg-agro-gold text-agro-green px-12 md:px-20 py-6 md:py-8 rounded-2xl font-bold text-2xl md:text-3xl hover:bg-white transition-all transform hover:scale-105 shadow-2xl uppercase tracking-widest">GARANTIR MINHA VAGA AGORA</a>
     </div>
   </section>
@@ -506,7 +506,7 @@ const App: React.FC = () => {
           {/* Mobile Bar */}
           <div className="fixed bottom-0 left-0 w-full bg-agro-green text-white p-4 flex justify-between items-center z-[70] md:hidden shadow-[0_-4px_20px_rgba(0,0,0,0.3)] border-t border-agro-gold/30">
             <div className="flex flex-col">
-              <span className="text-[10px] text-agro-gold font-bold uppercase tracking-tighter">Método ELITE</span>
+              <span className="text-[10px] text-agro-gold font-bold uppercase tracking-tighter">Método E.P.A.</span>
               <span className="font-bold text-sm">Vagas Limitadas</span>
             </div>
             <a href="#inscricao" className="bg-agro-gold text-agro-green px-6 py-3 rounded-xl font-bold text-sm shadow-lg active:scale-95 transition-transform uppercase">INSCREVER</a>

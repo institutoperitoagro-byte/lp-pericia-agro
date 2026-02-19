@@ -40,7 +40,7 @@ const Differentiation: React.FC = () => {
             </div>
           </div>
 
-          {/* BLOCO: MÉTODO ELITE (A SOLUÇÃO) */}
+          {/* BLOCO: MÉTODO E.P.A. (A SOLUÇÃO) */}
           <div className="bg-agro-green text-white rounded-[2.5rem] p-10 md:p-14 border-2 border-agro-gold shadow-2xl relative">
             <div className="flex flex-col md:flex-row gap-6 md:items-center mb-10">
               <div className="shrink-0 w-12 h-12 bg-agro-gold text-agro-green rounded-xl flex items-center justify-center">
@@ -48,7 +48,15 @@ const Differentiation: React.FC = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <h3 className="text-2xl md:text-3xl font-serif font-bold text-agro-gold">Método ELITE – Instituto Perito Agro</h3>
+              <h3 className="text-2xl md:text-3xl font-serif font-bold text-agro-gold">Método ELITE – Instituto Perito Agro</h3> <p className="mt-4 text-lg md:text-xl font-semibold text-white">
+  Estruturação Pericial Agroambiental
+</p>
+
+<p className="text-sm md:text-base text-slate-200 italic mt-1">
+  O método que encurta 10 anos de atuação na perícia agroambiental.
+</p>
+
+            
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-y-4 gap-x-8">
               {[
