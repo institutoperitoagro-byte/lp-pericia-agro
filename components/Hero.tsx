@@ -25,10 +25,10 @@ const Hero: React.FC = () => {
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <a 
-              href="#inscricao" 
+              href="https://chk.eduzz.com/l7w4tp3b" 
               className="w-full sm:w-auto px-12 py-5 bg-agro-gold text-agro-green text-center font-bold text-xl rounded-xl shadow-lg hover:bg-white transition-all transform hover:scale-105 active:scale-95"
             >
-              QUERO COMEÇAR AGORA
+              QUERO APRENDER O MÉTODO E ATUAR COMO PERITO
             </a>
           </div>
         </div>
