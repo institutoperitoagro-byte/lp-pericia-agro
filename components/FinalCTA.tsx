@@ -21,7 +21,7 @@ const FinalCTA: React.FC = () => {
         </p>
 
         <div className="flex flex-col items-center gap-8">
-          <a href="https://SEUCHECKOUTAQUI.com"
+          <a href="https://chk.eduzz.com/ftqmnpka"
              className="group relative bg-agro-gold text-agro-green px-16 py-7 rounded-2xl font-bold text-2xl hover:bg-white transition-all transform hover:scale-105 shadow-[0_20px_40px_rgba(0,0,0,0.3)] inline-block">
              <span className="relative z-10">GARANTIR MINHA VAGA AGORA</span>
              <div className="absolute inset-0 bg-white opacity-0 group-hover:opacity-20 transition-opacity rounded-2xl"></div>
