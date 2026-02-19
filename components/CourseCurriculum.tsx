@@ -55,7 +55,7 @@ const CourseCurriculum: React.FC = () => {
         </div>
 
         <div className="text-center">
-          <a href="#inscricao" className="inline-block px-12 py-5 bg-agro-green text-white font-bold text-xl rounded-xl shadow-xl hover:bg-agro-gold transition-all transform hover:scale-105">
+          <a href="https://chk.eduzz.com/ftqmnpka" className="inline-block px-12 py-5 bg-agro-green text-white font-bold text-xl rounded-xl shadow-xl hover:bg-agro-gold transition-all transform hover:scale-105">
             GARANTIR ACESSO AO CONTEÚDO
           </a>
         </div>

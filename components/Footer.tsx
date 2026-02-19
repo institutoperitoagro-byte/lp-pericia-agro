@@ -49,7 +49,7 @@ const Footer: React.FC<FooterProps> = ({ sessionCode }) => {
             <h4 className="text-agro-gold font-bold mb-6 uppercase tracking-widest text-sm">Inscrição</h4>
             <ul className="space-y-4 text-slate-400 text-sm">
               <li><a href="#bonus" className="hover:text-agro-gold transition-colors">Bônus</a></li>
-              <li><a href="#inscricao" className="hover:text-agro-gold transition-colors">Preços e Vagas</a></li>
+              <li><a href="https://chk.eduzz.com/ftqmnpka" className="hover:text-agro-gold transition-colors">Preços e Vagas</a></li>
               <li><a href="#" className="hover:text-agro-gold transition-colors">WhatsApp Suporte</a></li>
               <li><a href="#" className="hover:text-agro-gold transition-colors">Privacidade</a></li>
             </ul>

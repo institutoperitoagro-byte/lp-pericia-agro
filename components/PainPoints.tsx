@@ -55,7 +55,7 @@ const PainPoints: React.FC = () => {
             <p className="text-xl text-slate-300 mb-10 leading-relaxed">
               Desenvolvemos uma formação que <span className="text-white font-bold italic">blinda sua atuação</span>. Ensinamos não apenas como fazer o laudo, mas como se posicionar como a <span className="text-agro-gold font-bold">autoridade técnica da confiança do juiz</span> dentro do processo.
             </p>
-            <a href="#inscricao" className="inline-block px-10 py-5 bg-agro-gold text-agro-green font-bold rounded-xl hover:bg-white transition-all transform hover:scale-105 shadow-xl text-lg">
+            <a href="https://chk.eduzz.com/ftqmnpka" className="inline-block px-10 py-5 bg-agro-gold text-agro-green font-bold rounded-xl hover:bg-white transition-all transform hover:scale-105 shadow-xl text-lg">
               CONHECER O MÉTODO COMPLETO
             </a>
           </div>

@@ -34,7 +34,7 @@ const FinalUrgency: React.FC = () => {
           A pergunta é: <span className="text-agro-gold font-bold">você estará pronto quando a oportunidade surgir?</span>
         </p>
 
-        <a href="#inscricao"
+        <a href="https://chk.eduzz.com/ftqmnpka"
            className="inline-block bg-agro-gold text-agro-green px-12 py-5 rounded-xl font-bold text-xl hover:bg-white transition-all transform hover:scale-105 shadow-2xl">
            COMEÇAR MINHA CARREIRA NA PERÍCIA AGORA
         </a>

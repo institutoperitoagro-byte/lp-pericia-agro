@@ -110,7 +110,7 @@ const HonorariosSimulator: React.FC = () => {
 
             <div className="mt-12">
               <a 
-                href="#inscricao" 
+                href="https://chk.eduzz.com/ftqmnpka" 
                 className="animate-pulse-cta inline-block w-full sm:w-auto px-12 py-5 bg-agro-gold text-agro-green font-bold text-lg rounded-2xl shadow-xl hover:bg-white transition-all transform hover:scale-105 active:scale-95 uppercase tracking-wide"
               >
                 Quero alcançar estes honorários

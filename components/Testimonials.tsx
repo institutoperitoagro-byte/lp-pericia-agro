@@ -31,7 +31,7 @@ const Testimonials: React.FC = () => {
         </div>
 
         <div className="text-center">
-          <a href="#inscricao" className="animate-pulse-cta inline-block px-12 py-5 bg-agro-green text-white font-bold text-xl rounded-xl shadow-xl hover:bg-agro-gold transition-all transform hover:scale-105">
+          <a href="https://chk.eduzz.com/ftqmnpka" className="animate-pulse-cta inline-block px-12 py-5 bg-agro-green text-white font-bold text-xl rounded-xl shadow-xl hover:bg-agro-gold transition-all transform hover:scale-105">
             SER O PRÓXIMO CASE DE SUCESSO
           </a>
         </div>

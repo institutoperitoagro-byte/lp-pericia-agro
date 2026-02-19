@@ -39,7 +39,7 @@ const CourseFeatures: React.FC = () => {
         </div>
 
         <div className="text-center">
-          <a href="#inscricao" className="animate-pulse-cta inline-block px-12 py-5 bg-agro-gold text-agro-green font-bold text-xl rounded-xl shadow-xl hover:bg-white transition-all transform hover:scale-105">
+          <a href="https://chk.eduzz.com/ftqmnpka" className="animate-pulse-cta inline-block px-12 py-5 bg-agro-gold text-agro-green font-bold text-xl rounded-xl shadow-xl hover:bg-white transition-all transform hover:scale-105">
             CONHECER O CURSO POR DENTRO
           </a>
         </div>

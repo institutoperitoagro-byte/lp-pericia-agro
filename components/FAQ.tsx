@@ -37,7 +37,7 @@ const FAQ: React.FC = () => {
         <div className="text-center p-12 bg-agro-green/5 rounded-[2.5rem] border border-agro-gold/20">
            <h4 className="text-xl font-serif text-agro-green font-bold mb-4">Ainda tem alguma dúvida?</h4>
            <p className="text-slate-500 text-sm mb-8">Nossa equipe está pronta para te ajudar a decidir o seu próximo passo na carreira.</p>
-           <a href="#inscricao" className="inline-block px-10 py-4 bg-agro-gold text-agro-green font-bold rounded-xl shadow-lg hover:bg-agro-green hover:text-white transition-all">
+           <a href="https://chk.eduzz.com/ftqmnpka" className="inline-block px-10 py-4 bg-agro-gold text-agro-green font-bold rounded-xl shadow-lg hover:bg-agro-green hover:text-white transition-all">
              FALAR COM CONSULTOR
            </a>
         </div>

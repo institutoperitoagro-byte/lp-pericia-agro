@@ -42,7 +42,7 @@ const MistakesToAvoid: React.FC = () => {
               <p className="text-slate-300 text-sm leading-relaxed">Você domina o jogo processual e atua com total segurança desde a primeira nomeação, evitando prejuízos financeiros e técnicos.</p>
             </div>
             <div className="md:w-1/3 w-full text-right">
-              <a href="#inscricao" className="w-full inline-block px-8 py-4 bg-agro-gold text-agro-green text-center font-bold rounded-xl shadow-lg hover:bg-white transition-all transform hover:scale-105">
+              <a href="https://chk.eduzz.com/ftqmnpka" className="w-full inline-block px-8 py-4 bg-agro-gold text-agro-green text-center font-bold rounded-xl shadow-lg hover:bg-white transition-all transform hover:scale-105">
                 QUERO O MÉTODO
               </a>
             </div>

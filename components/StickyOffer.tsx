@@ -40,7 +40,7 @@ const StickyOffer: React.FC = () => {
               <p className="text-white font-mono text-xl font-bold">{formatTime(timeLeft)}</p>
             </div>
             <a 
-              href="#inscricao" 
+              href="https://chk.eduzz.com/ftqmnpka" 
               className="bg-agro-gold hover:bg-white text-agro-green font-bold px-6 py-2.5 rounded-lg transition-all text-sm whitespace-nowrap shadow-md"
             >
               GARANTIR MINHA VAGA

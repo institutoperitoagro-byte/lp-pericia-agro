@@ -21,7 +21,7 @@ const MobileStickyBar: React.FC = () => {
         <span className="text-xs text-agro-gold font-bold uppercase tracking-tighter">Método E.P.A.</span>
         <span className="font-bold text-sm">Torne-se Perito Judicial</span>
       </div>
-      <a href="#inscricao" className="bg-agro-gold text-agro-green px-5 py-2.5 rounded-lg font-bold text-sm shadow-lg active:scale-95 transition-transform">
+      <a href="https://chk.eduzz.com/ftqmnpkao" className="bg-agro-gold text-agro-green px-5 py-2.5 rounded-lg font-bold text-sm shadow-lg active:scale-95 transition-transform">
         INSCREVER AGORA
       </a>
     </div>

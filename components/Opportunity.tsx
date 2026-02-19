@@ -57,7 +57,7 @@ const Opportunity: React.FC = () => {
               <p className="font-semibold text-agro-green">Dominará a cobrança de honorários, quebrará objeções e criará laudos que resistem a qualquer impugnação.</p>
             </div>
             <div className="mt-10">
-              <a href="#inscricao" className="inline-block px-10 py-5 bg-agro-gold text-agro-green font-bold rounded-xl shadow-lg hover:bg-agro-green hover:text-white transition-all transform hover:scale-105 uppercase tracking-wide">
+              <a href="https://chk.eduzz.com/ftqmnpka" className="inline-block px-10 py-5 bg-agro-gold text-agro-green font-bold rounded-xl shadow-lg hover:bg-agro-green hover:text-white transition-all transform hover:scale-105 uppercase tracking-wide">
                 Garantir minha vaga agora
               </a>
             </div>

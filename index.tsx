@@ -58,7 +58,7 @@ const Hero = () => (
         Este curso ensina a construir uma carreira sólida, rentável e valorizada na perícia judicial. Construa uma nova fonte de renda com <span className="text-white font-bold">autonomia profissional e honorários dignos.</span>
       </p>
       <div className="flex justify-center">
-        <a href="#inscricao" className="animate-pulse-cta inline-block w-full md:w-auto px-10 md:px-14 py-5 md:py-6 bg-agro-gold text-agro-green font-bold text-xl md:text-2xl rounded-2xl shadow-2xl hover:bg-white transition-all transform hover:scale-105">
+        <a href="https://chk.eduzz.com/ftqmnpka" className="animate-pulse-cta inline-block w-full md:w-auto px-10 md:px-14 py-5 md:py-6 bg-agro-gold text-agro-green font-bold text-xl md:text-2xl rounded-2xl shadow-2xl hover:bg-white transition-all transform hover:scale-105">
           QUERO COMEÇAR AGORA
         </a>
       </div>
@@ -137,7 +137,7 @@ const Opportunity = () => (
             <p className="font-bold text-agro-green text-xl md:text-2xl border-l-4 border-agro-gold pl-5 md:pl-6">Dominará a cobrança de honorários, quebrará objeções e criará laudos que resistem a qualquer impugnação.</p>
           </div>
           <div className="mt-10 md:mt-14">
-            <a href="#inscricao" className="inline-block w-full md:w-auto text-center px-10 md:px-12 py-5 md:py-6 bg-agro-gold text-agro-green font-bold rounded-2xl shadow-xl hover:bg-agro-green hover:text-white transition-all transform hover:scale-105 uppercase tracking-widest text-base md:text-lg">Garantir minha vaga agora</a>
+            <a href="https://chk.eduzz.com/ftqmnpka" className="inline-block w-full md:w-auto text-center px-10 md:px-12 py-5 md:py-6 bg-agro-gold text-agro-green font-bold rounded-2xl shadow-xl hover:bg-agro-green hover:text-white transition-all transform hover:scale-105 uppercase tracking-widest text-base md:text-lg">Garantir minha vaga agora</a>
           </div>
         </div>
         <div className="bg-agro-green lg:w-1/3 p-10 md:p-14 flex flex-col justify-center text-center text-white border-t lg:border-t-0 lg:border-l border-agro-gold/20">
@@ -410,7 +410,7 @@ const Pricing = () => (
             </div>
             <p className="mt-6 text-agro-green font-bold text-2xl md:text-3xl">Ou R$ 2.197,00 à vista no PIX</p>
           </div>
-          <a href="#" className="w-full py-8 md:py-10 bg-agro-gold text-agro-green font-bold text-2xl md:text-3xl rounded-3xl shadow-2xl hover:bg-agro-green hover:text-white transition-all transform hover:scale-105 animate-pulse-cta uppercase tracking-widest">GARANTIR MINHA VAGA</a>
+          <a href="https://chk.eduzz.com/ftqmnpka" className="w-full py-8 md:py-10 bg-agro-gold text-agro-green font-bold text-2xl md:text-3xl rounded-3xl shadow-2xl hover:bg-agro-green hover:text-white transition-all transform hover:scale-105 animate-pulse-cta uppercase tracking-widest">GARANTIR MINHA VAGA</a>
           <div className="mt-8 flex items-center justify-center gap-4 text-slate-500">
             <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"></path></svg>
             <span className="text-base md:text-lg font-medium">Acesso imediato e seguro</span>
@@ -456,7 +456,7 @@ const FinalCTA = () => (
     <div className="max-w-5xl mx-auto px-6 relative z-10">
       <h2 className="text-4xl md:text-7xl font-serif font-bold mb-8 leading-tight">Sua nova jornada profissional <span className="text-agro-gold italic">começa aqui.</span></h2>
       <p className="text-xl md:text-2xl mb-14 text-slate-300 max-w-3xl mx-auto leading-relaxed">Garanta seu lugar no Método E.P.A. e transforme seu conhecimento técnico em autoridade judicial hoje mesmo.</p>
-      <a href="#inscricao" className="inline-block bg-agro-gold text-agro-green px-12 md:px-20 py-6 md:py-8 rounded-2xl font-bold text-2xl md:text-3xl hover:bg-white transition-all transform hover:scale-105 shadow-2xl uppercase tracking-widest">GARANTIR MINHA VAGA AGORA</a>
+      <a href="https://chk.eduzz.com/ftqmnpka" className="inline-block bg-agro-gold text-agro-green px-12 md:px-20 py-6 md:py-8 rounded-2xl font-bold text-2xl md:text-3xl hover:bg-white transition-all transform hover:scale-105 shadow-2xl uppercase tracking-widest">GARANTIR MINHA VAGA AGORA</a>
     </div>
   </section>
 );
@@ -509,7 +509,7 @@ const App: React.FC = () => {
               <span className="text-[10px] text-agro-gold font-bold uppercase tracking-tighter">Método E.P.A.</span>
               <span className="font-bold text-sm">Vagas Limitadas</span>
             </div>
-            <a href="#inscricao" className="bg-agro-gold text-agro-green px-6 py-3 rounded-xl font-bold text-sm shadow-lg active:scale-95 transition-transform uppercase">INSCREVER</a>
+            <a href="https://chk.eduzz.com/ftqmnpka" className="bg-agro-gold text-agro-green px-6 py-3 rounded-xl font-bold text-sm shadow-lg active:scale-95 transition-transform uppercase">INSCREVER</a>
           </div>
           
           {/* Desktop Offer */}
@@ -523,7 +523,7 @@ const App: React.FC = () => {
                   <h4 className="font-bold text-sm leading-tight">OFERTA ESPECIAL <span className="text-agro-gold block">12x R$ 199,00</span></h4>
                 </div>
               </div>
-              <a href="#inscricao" className="bg-agro-gold hover:bg-white text-agro-green font-bold py-3 rounded-xl text-center transition-all text-sm uppercase tracking-widest shadow-md">GARANTIR VAGA</a>
+              <a href="https://chk.eduzz.com/ftqmnpka" className="bg-agro-gold hover:bg-white text-agro-green font-bold py-3 rounded-xl text-center transition-all text-sm uppercase tracking-widest shadow-md">GARANTIR VAGA</a>
             </div>
           </div>
         </>

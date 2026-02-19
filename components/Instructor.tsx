@@ -55,7 +55,7 @@ const Instructor: React.FC = () => {
 
           <div className="pt-8">
             <a 
-              href="#inscricao" 
+              href="https://chk.eduzz.com/ftqmnpka" 
               className="inline-flex items-center justify-center gap-4 bg-agro-green text-white px-10 py-5 rounded-xl font-bold hover:bg-agro-gold transition-all shadow-xl group"
             >
               <span>ENCURTAR MEU CAMINHO AGORA</span>
