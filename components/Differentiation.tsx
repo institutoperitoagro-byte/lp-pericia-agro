@@ -48,15 +48,13 @@ const Differentiation: React.FC = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <h3 className="text-2xl md:text-3xl font-serif font-bold text-agro-gold">Método E.P.A. – Instituto Perito Agro</h3> <p className="mt-4 text-lg md:text-xl font-semibold text-white">
+              <h3 className="text-2xl md:text-3xl font-serif font-bold text-agro-gold">Método E.P.A. – Instituto Perito Agro</h3> 
+              <p className="mt-4 text-lg md:text-xl font-semibold text-white">
   Estruturação Pericial Agroambiental
 </p>
-
-<p className="text-sm md:text-base text-slate-200 italic mt-1">
+<p className="text-sm md:text-base text-slate-200 italic mt-1>
   O método que encurta 10 anos de atuação na perícia agroambiental.
-</p>
-
-            
+</p>            
             </div>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-y-4 gap-x-8">
               {[
