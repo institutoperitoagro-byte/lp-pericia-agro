@@ -48,7 +48,7 @@ const Differentiation: React.FC = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <h3 className="text-2xl md:text-3xl font-serif font-bold text-agro-gold">Método ELITE – Instituto Perito Agro</h3> <p className="mt-4 text-lg md:text-xl font-semibold text-white">
+              <h3 className="text-2xl md:text-3xl font-serif font-bold text-agro-gold">Método E.P.A. – Instituto Perito Agro</h3> <p className="mt-4 text-lg md:text-xl font-semibold text-white">
   Estruturação Pericial Agroambiental
 </p>
 
@@ -78,7 +78,7 @@ const Differentiation: React.FC = () => {
 
         <div className="text-center">
           <a href="#inscricao" className="inline-block px-12 py-5 bg-agro-green text-white font-bold text-xl rounded-xl shadow-xl hover:bg-agro-gold transition-all transform hover:scale-105">
-            EU QUERO O MÉTODO ELITE
+            EU QUERO O MÉTODO E.P.A.
           </a>
         </div>
       </div>

@@ -5,7 +5,7 @@ const Testimonials: React.FC = () => {
   const testimonials = [
     { text: "Consegui minha primeira nomeação e hoje já atuo com segurança. O curso mostra exatamente a prática.", author: "Lidiane", role: "Eng. Agrônoma • PR" },
     { text: "O que antes parecia muito difícil ficou descomplicado. Realizei minha primeira perícia durante o curso.", author: "Diego", role: "Eng. Florestal • SP" },
-    { text: "Encontrei o Método ELITE e salvou minha atuação. Consegui conduzir tudo corretamente.", author: "João", role: "Eng. Agrônomo • SP" },
+    { text: "Encontrei o Método E.P.A. e salvou minha atuação. Consegui conduzir tudo corretamente.", author: "João", role: "Eng. Agrônomo • SP" },
     { text: "Em 3 meses após o curso, recebi minha primeira nomeação de R$ 8.500.", author: "Ricardo", role: "Eng. Agrônomo • MS" }
   ];
 

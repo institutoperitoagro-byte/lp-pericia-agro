@@ -37,7 +37,7 @@ const MistakesToAvoid: React.FC = () => {
           <div className="p-10 md:p-12 bg-agro-green rounded-[2.5rem] text-white shadow-2xl border-2 border-agro-gold/30 flex flex-col md:flex-row items-center gap-10">
             <div className="md:w-2/3">
               <h3 className="text-2xl font-serif text-agro-gold font-bold mb-4 italic">
-                O Método ELITE elimina esses riscos.
+                O Método E.P.A. elimina esses riscos.
               </h3>
               <p className="text-slate-300 text-sm leading-relaxed">Você domina o jogo processual e atua com total segurança desde a primeira nomeação, evitando prejuízos financeiros e técnicos.</p>
             </div>

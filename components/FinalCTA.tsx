@@ -17,7 +17,7 @@ const FinalCTA: React.FC = () => {
         </h2>
 
         <p className="text-xl md:text-2xl mb-14 text-slate-300 max-w-3xl mx-auto leading-relaxed">
-          O mercado não espera. Garanta seu lugar no Método ELITE e transforme seu conhecimento técnico em autoridade judicial hoje mesmo.
+          O mercado não espera. Garanta seu lugar no Método E.P.A. e transforme seu conhecimento técnico em autoridade judicial hoje mesmo.
         </p>
 
         <div className="flex flex-col items-center gap-8">

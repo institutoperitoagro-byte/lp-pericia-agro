@@ -51,7 +51,7 @@ const PainPoints: React.FC = () => {
         <div className="bg-agro-green p-12 rounded-[40px] text-white shadow-2xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-agro-gold/5 rounded-full -translate-y-1/2 translate-x-1/2"></div>
           <div className="max-w-4xl mx-auto text-center">
-            <h3 className="text-3xl font-serif mb-6">A Solução: O <span className="text-agro-gold">Método ELITE</span></h3>
+            <h3 className="text-3xl font-serif mb-6">A Solução: O <span className="text-agro-gold">Método E.P.A.</span></h3>
             <p className="text-xl text-slate-300 mb-10 leading-relaxed">
               Desenvolvemos uma formação que <span className="text-white font-bold italic">blinda sua atuação</span>. Ensinamos não apenas como fazer o laudo, mas como se posicionar como a <span className="text-agro-gold font-bold">autoridade técnica da confiança do juiz</span> dentro do processo.
             </p>
